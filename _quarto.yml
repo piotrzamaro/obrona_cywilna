@@ -1,0 +1,58 @@
+project:
+  type: website
+
+website:
+  reader-mode: true
+  page-navigation: true
+  title: "OBRONA CYWILNA"
+
+  navbar: 
+    foreground: "#FFFFFF"
+    background: "#023540"
+    logo: logo.png
+    left:
+      - text: "Pojęcie"
+        href: pojecie-obrony-cywilnej.qmd
+      - text: "Regulacje prawne"
+        href: regulacje-prawne.qmd
+      - text: "Zadania"
+        href: zadania-obrony-cywilnej.qmd
+      - text: "Organizacja"
+        href: organizacja-obrony-cywilnej.qmd
+      - text: "Formacje i środki"
+        href: formacje-i-srodki.qmd
+      - text: "Ustawa o Obronie Cywilnej"
+        href: ustawa-o-obronie-ojczyzny.qmd
+      - text: "Perspektywy odbudowy"
+        href: perspektywy-odbudowy.qmd
+
+  sidebar: 
+  - title: "Abstrakt"
+    style: "floating"
+    pinned: TRUE
+    foregroundcolor: "#023540"
+    search: true
+    collapse-level: 3
+    logo: logo.png
+    contents:
+      - pojecie-obrony-cywilnej.qmd
+      - regulacje-prawne.qmd
+      - zadania-obrony-cywilnej.qmd
+      - organizacja-obrony-cywilnej.qmd
+      - formacje-i-srodki.qmd
+      - ustawa-obrona-cywilna.qmd
+      - perspektywy-odbudowy.qmd
+          
+
+  page-footer:
+    right: "piotr.zamaro@uwm.edu.pl"
+    left: "Analiza i zarządzanie publiczne"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+lang: pl
+editor: visual
+

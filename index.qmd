@@ -1,0 +1,46 @@
+---
+format:
+  html:
+    toc: false
+    page-width: 100%
+    body-width: 90%
+    text-width: 100%
+    sidebar-width: 100px
+    page-sidebar: 10%
+    page-margin: 10%
+    margin-width: 5%
+    self-contained: true
+    #toc-title: "W rozdziale"
+    #toc-location: body
+    fontsize: 1.1em
+    linestretch: 1.5
+    theme: lumen
+    page-layout: full
+    style: style.css
+    extra_css: |
+      body {
+        font-family: arial;
+        font-size: smaller;
+        text-align: justify;
+      }
+      
+page-navigation: true
+---
+
+<br> <br>
+
+# ***Obrona cywilna**. Organizacja, zadania i kierunki rozwoju.*
+
+<br>
+
+Dokument ma na celu przybliżenie czytelnikowi aktualnych rozwiązań, wyzwań i możliwości w zakresie organizacji i rozwoju obrony cywilnej jako integralnej części zarządzania bezpieczeństwem państwa.
+
+<br>
+
+## Rozkład jazdy:
+
+-   podstawy prawne funkcjonowania obrony cywilnej w Polsce,
+-   strukturę organizacyjną systemu OC,
+-   zadania poszczególnych szczebli administracji publicznej i obywateli,
+-   rodzaje formacji i ich wyposażenie,
+-   kierunki modernizacji i odbudowy systemu OC.
