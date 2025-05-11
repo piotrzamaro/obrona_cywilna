@@ -1,69 +1,60 @@
 ---
-title: "Formacje i środki działania Obrony Cywilnej"
+title: "4. Formacje i środki działania Obrony Cywilnej"
 format: html
 ---
 
-## 1. Czym są formacje obrony cywilnej?
 
-**Formacje obrony cywilnej** to wyspecjalizowane, zorganizowane zespoły osób, wyposażone w odpowiedni sprzęt i przeszkolone do wykonywania zadań OC, w szczególności:
-- ratownictwa i ewakuacji,
-- udzielania pomocy medycznej,
-- usuwania skutków skażeń i zniszczeń,
-- zabezpieczania terenu i wspierania ludności cywilnej.
+## Tworzenie formacji
 
-Formacje te mogą być powoływane zarówno przez administrację publiczną, jak i instytucje, przedsiębiorstwa, organizacje społeczne czy osoby fizyczne zobowiązane do świadczeń rzeczowych i osobistych.
+Podstawowymi jednostkami organizacyjnymi powoływanymi do realizacji zadań obrony cywilnej są formacje obrony cywilnej. Tworzy się je na podstawie rozporządzeń odpowiednich organów administracji publicznej, w szczególności ministrów, wojewodów, starostów, wójtów, burmistrzów i prezydentów miast. Mogą je również tworzyć pracodawcy oraz organizacje społeczne, jeżeli ich statuty to przewidują. 
+Powoływanie formacji odbywa się w drodze zarządzenia z uwzględnieniem:
 
-## 2. Rodzaje formacji OC
+- skali zagrożeń,
+- rodzaju działań,
+- przeznaczenia i struktury organizacyjnej,
+- liczby i kwalifikacji członków.
 
-Formacje OC dzielą się na:
+## Służba w formacjach OC
 
-### a) Etatowe  
-- tworzone na stałe w strukturach instytucji, np. PSP, Policji, administracji publicznej, dużych zakładów pracy.
-- działają na podstawie etatów, budżetów i regulaminów wewnętrznych.
+Obowiązek obywateli w zakresie obrony cywilnej polega m. in. na odbywaniu słuŻby w obronie cywilnej lub przysposobieniu obronnym młodzieży szkolnej. Służba w formacjach OC obejmuje działania w czasie pokoju, przygotowanie do sytuacji kryzysowych i wojennych, a także udział w szkoleniach. Obowiązek jej pełnienia dotyczy m.in. osób przeniesionych do rezerwy, osób niepełnosprawnych zdolnych do pracy oraz tych wyłączonych z obowiązku służby wojskowej. Zwolnione są m.in. kobiety w ciąży, osoby starsze i opiekunowie.
 
-### b) Nieetatowe  
-- formowane doraźnie w zależności od potrzeb (np. kryzysu lokalnego, wojny).
-- bazują na ochotnikach, pracownikach firm i mieszkańcach.
+## Typy formacji OC
 
-### c) Społeczne/ochotnicze  
-- oparte na działalności organizacji takich jak **OSP**, **PCK**, **Harcerstwo**, **WOPR**, grupy ratownictwa medycznego i technicznego.
-- odgrywają dużą rolę w czasie klęsk żywiołowych i katastrof.
+Formacje realizują swoje zadania zgodnie z lokalnymi potrzebami i typem zagrożenia. Podejmują działania ratunkowe, techniczne, logistyczne i społeczne, zapewniając kompleksową ochronę ludności cywilnej.
 
-## 3. Przeznaczenie formacji
+1. **Formacje ogólne** – do działań ratowniczo-gaśniczych, ewakuacyjnych, porządkowych i pomocy ludności.
 
-Zgodnie z rozporządzeniami Szefa OC Kraju, formacje mogą być przeznaczone do:
-- ratownictwa technicznego, chemicznego, medycznego,
-- wykrywania i oznaczania skażeń,
-- budowy i obsługi ukryć/schronów,
-- dezaktywacji zagrożeń (CBRN),
-- zabezpieczenia logistycznego (transport, zaopatrzenie, łączność),
-- udzielania pierwszej pomocy psychologicznej i socjalnej.
+2. **Formacje specjalne** – do zadań takich jak:
+   - pomoc medyczna,
+   - likwidacja skażeń,
+   - ratownictwo techniczne, energetyczne, budowlane,
+   - ochrona infrastruktury krytycznej,
+   - dystrybucja wody i żywności,
+   - alarmowanie i łączność.
+   - ochrona przeciwpożarowa.
+   - w zakresie schronów
 
-## 4. Środki działania OC
 
-### a) Sprzęt techniczny i ratowniczy
-- zestawy pierwszej pomocy, nosze, defibrylatory,
-- urządzenia do wykrywania skażeń (czujniki promieniowania, detektory gazów),
-- agregaty prądotwórcze, motopompy, środki ochrony osobistej.
+### Rodzaje pododdziałów ratowniczych
 
-### b) Systemy alarmowania i łączności
-- sieci syren alarmowych, megafony, komunikaty SMS i internetowe,
-- systemy łączności radiowej i satelitarnej.
+1. **Chemiczne** – identyfikacja i neutralizacja zagrożeń chemicznych.
+2. **Techniczne i budowlane** – działania przy zniszczeniach infrastruktury.
+3. **Energetyczne** – zabezpieczenie dostaw energii.
+4. **Wodne i przeciwpowodziowe** – reagowanie na zagrożenia hydrologiczne.
+5. **Medyczne** – opieka nad poszkodowanymi i działania sanitarne.
 
-### c) Schrony i ukrycia
-- obiekty stałe (np. w piwnicach budynków użyteczności publicznej),
-- ukrycia tymczasowe i polowe, wyposażone w środki filtracyjne i zaopatrzenie.
 
-### d) Zasoby logistyczne
-- pojazdy transportowe i ratownicze,
-- magazyny ze sprzętem, odzieżą, żywnością, wodą i lekami,
-- zapasy materiałów pierwszej potrzeby.
+## Środki ochrony ludności
 
-## 5. Przygotowanie i szkolenie
+System obrony cywilnej wykorzystuje zarówno środki **zbiorowej**, jak i **indywidualnej ochrony** ludności:
 
-Skuteczność działania formacji OC zależy od:
-- regularnych ćwiczeń praktycznych (lokalnych i ogólnokrajowych),
-- szkoleń z zakresu reagowania na konkretne zagrożenia (np. chemiczne, biologiczne),
-- znajomości zasad łączności, pierwszej pomocy, ewakuacji, obsługi sprzętu.
+#### Zbiorowe środki ochrony:
 
-Szkolenia mogą być organizowane przez administrację publiczną, instytucje edukacyjne i organizacje społeczne, a udział w nich jest elementem przygotowania ludności do sytuacji kryzysowej.
+- schrony i ukrycia,
+- ewakuacja planowa lub doraźna.
+
+#### Indywidualne środki ochrony:
+
+- **ochrona dróg oddechowych**: maski przeciwgazowe i filtracyjne (dla dzieci i dorosłych), maski izolacyjne, ustniki i kaptury ochronne,
+- **ochrona skóry**: kombinezony, peleryny ochronne, fartuchy, odzież kwasoodporna, rękawice, obuwie gumowe, okulary ochronne, hełmy i osłony głowy.
+

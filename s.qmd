@@ -1,0 +1,44 @@
+---
+title: "Regulacje prawne dotyczące Obrony Cywilnej"
+format: html
+---
+
+## 1. Podstawy prawne funkcjonowania obrony cywilnej w Polsce
+
+Obrona cywilna w Polsce jest regulowana przez szereg aktów prawnych, których podstawą jest:
+
+### a) Ustawa z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej  
+W Dziale IV tej ustawy znajdują się kluczowe zapisy dotyczące:
+- definicji i zakresu obrony cywilnej,
+- obowiązków organów administracji publicznej,
+- zasad tworzenia formacji OC i prowadzenia szkoleń,
+- obowiązku świadczeń osobistych i rzeczowych na potrzeby OC.
+
+Pomimo przyjęcia nowej **Ustawy o obronie Ojczyzny (2022)**, przepisy dotyczące OC z ustawy z 1967 r. w wielu aspektach nadal są stosowane, co powoduje niejednoznaczności interpretacyjne i potrzebę legislacyjnego uporządkowania tego obszaru.
+
+### b) Akty wykonawcze  
+Na podstawie ustawy z 1967 r. wydano wiele rozporządzeń, m.in.:
+- w sprawie szczegółowych zadań Szefa Obrony Cywilnej Kraju,
+- organizacji formacji OC,
+- oznakowania i zakresu szkolenia,
+- klasyfikacji obiektów szczególnego znaczenia dla OC.
+
+Wiele z tych aktów prawnych ma charakter przestarzały i nie uwzględnia współczesnych zagrożeń, takich jak terroryzm, cyberataki czy klęski klimatyczne.
+
+### c) Prawo międzynarodowe  
+Najważniejszym dokumentem jest:
+- **Protokół dodatkowy I z 1977 r. do Konwencji genewskich z 1949 r.** – zawiera on definicję obrony cywilnej (art. 61–67) i określa jej ochronę międzynarodową jako działalności o charakterze humanitarnym. Ustanawia także **międzynarodowy znak ochronny OC** – **niebieski trójkąt na pomarańczowym tle**.
+
+## 2. Problemy prawne i legislacyjne
+
+- **Brak kompleksowej ustawy o obronie cywilnej** – obecnie brakuje nowoczesnego aktu prawnego, który kompleksowo regulowałby organizację, finansowanie i zadania OC w Polsce.
+- **Luki prawne po wejściu w życie ustawy o obronie Ojczyzny (2022)** – ta ustawa uchyliła część przepisów dotyczących obronności, lecz nie zapewniła pełnej kontynuacji dla regulacji OC.
+- **Rozproszenie przepisów** – przepisy dotyczące OC znajdują się w wielu ustawach i rozporządzeniach, co utrudnia ich spójne stosowanie i interpretację.
+
+## 3. Potrzeba reformy
+
+W związku z rosnącym zagrożeniem militarnym i klimatycznym, konieczne jest:
+- opracowanie nowej **ustawy o obronie cywilnej** jako integralnej części systemu bezpieczeństwa narodowego,
+- dostosowanie przepisów do realiów XXI wieku (np. uwzględnienie infrastruktury krytycznej, zagrożeń hybrydowych, pandemii),
+- uporządkowanie podziału kompetencji między administrację centralną i samorządową,
+- zapewnienie stabilnego finansowania oraz nadzoru nad szkoleniami i przygotowaniem ludności.
