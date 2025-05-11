@@ -1,0 +1,70 @@
+---
+title: "Organizacja Obrony Cywilnej"
+format: html
+---
+
+## 1. System organizacyjny obrony cywilnej w Polsce
+
+Obrona cywilna w Polsce opiera się na **strukturze terytorialno-resortowej**, co oznacza, że jej organizacja jest zintegrowana z administracją publiczną oraz instytucjami i podmiotami gospodarczymi.
+
+Organizacja OC funkcjonuje na **czterech poziomach zarządzania**:
+- krajowym,
+- wojewódzkim,
+- powiatowym,
+- gminnym.
+
+Każdy poziom ma wyznaczonego **szefa obrony cywilnej**, który odpowiada za przygotowanie i realizację zadań OC w ramach swojego obszaru działania.
+
+## 2. Poziom centralny
+
+- Szefem Obrony Cywilnej Kraju jest **Komendant Główny Państwowej Straży Pożarnej**, powoływany przez Prezesa Rady Ministrów.
+- Do jego zadań należy m.in.:
+  - opracowywanie i koordynowanie krajowych planów OC,
+  - nadzór nad przygotowaniem formacji OC,
+  - współpraca z ministrem obrony narodowej i administracją publiczną.
+
+Wspiera go Rządowe Centrum Bezpieczeństwa (RCB) i inne instytucje odpowiedzialne za zarządzanie kryzysowe.
+
+## 3. Poziom wojewódzki
+
+- Szefem OC województwa jest **wojewoda**.
+- Współpracuje z wojewódzkim zespołem zarządzania kryzysowego oraz służbami ratowniczymi, strażami i inspekcjami.
+- Odpowiada za:
+  - planowanie działań OC w regionie,
+  - tworzenie i wyposażenie wojewódzkich formacji OC,
+  - organizację ćwiczeń i szkoleń.
+
+## 4. Poziom powiatowy i gminny
+
+- W powiecie szefem OC jest **starosta**, a w gminie – **wójt, burmistrz lub prezydent miasta**.
+- Są oni odpowiedzialni za:
+  - opracowanie lokalnych planów OC,
+  - tworzenie gminnych i powiatowych formacji OC,
+  - przygotowanie schronów i ukryć,
+  - prowadzenie działań informacyjnych i edukacyjnych.
+
+## 5. Organizacja w resorcie i zakładach pracy
+
+Obrona cywilna funkcjonuje także w ramach **resortów, urzędów i przedsiębiorstw**, zwłaszcza tych mających znaczenie dla funkcjonowania państwa w sytuacjach kryzysowych (np. energetyka, transport, wodociągi, komunikacja).
+
+Każdy podmiot może tworzyć własne **formacje OC**, zgodnie z przydzielonymi zadaniami i na podstawie planów obronnych.
+
+## 6. Planowanie i dokumentacja
+
+Na każdym szczeblu funkcjonują **plany obrony cywilnej**, które obejmują:
+- analizę zagrożeń,
+- zadania dla formacji OC,
+- zasoby sprzętowe i ludzkie,
+- zasady współdziałania z innymi służbami i instytucjami.
+
+Plany te są regularnie aktualizowane i stanowią podstawę do organizowania ćwiczeń oraz reagowania w sytuacjach realnego zagrożenia.
+
+## 7. Wyzwania organizacyjne
+
+Organizacja OC w Polsce napotyka szereg problemów:
+- **niedobór wykwalifikowanych kadr** i specjalistycznego sprzętu,
+- **brak centralnego finansowania** i spójnej strategii modernizacji OC,
+- **niewielka świadomość społeczna** i brak obowiązku szkoleń dla ludności,
+- **rozproszenie kompetencji** między różne instytucje i szczeble administracji.
+
+W kontekście współczesnych zagrożeń organizacja OC wymaga gruntownego wzmocnienia i odbudowy, co powinno być przedmiotem reform legislacyjnych i strukturalnych.

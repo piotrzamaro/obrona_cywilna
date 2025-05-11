@@ -1,0 +1,69 @@
+---
+title: "Formacje i środki działania Obrony Cywilnej"
+format: html
+---
+
+## 1. Czym są formacje obrony cywilnej?
+
+**Formacje obrony cywilnej** to wyspecjalizowane, zorganizowane zespoły osób, wyposażone w odpowiedni sprzęt i przeszkolone do wykonywania zadań OC, w szczególności:
+- ratownictwa i ewakuacji,
+- udzielania pomocy medycznej,
+- usuwania skutków skażeń i zniszczeń,
+- zabezpieczania terenu i wspierania ludności cywilnej.
+
+Formacje te mogą być powoływane zarówno przez administrację publiczną, jak i instytucje, przedsiębiorstwa, organizacje społeczne czy osoby fizyczne zobowiązane do świadczeń rzeczowych i osobistych.
+
+## 2. Rodzaje formacji OC
+
+Formacje OC dzielą się na:
+
+### a) Etatowe  
+- tworzone na stałe w strukturach instytucji, np. PSP, Policji, administracji publicznej, dużych zakładów pracy.
+- działają na podstawie etatów, budżetów i regulaminów wewnętrznych.
+
+### b) Nieetatowe  
+- formowane doraźnie w zależności od potrzeb (np. kryzysu lokalnego, wojny).
+- bazują na ochotnikach, pracownikach firm i mieszkańcach.
+
+### c) Społeczne/ochotnicze  
+- oparte na działalności organizacji takich jak **OSP**, **PCK**, **Harcerstwo**, **WOPR**, grupy ratownictwa medycznego i technicznego.
+- odgrywają dużą rolę w czasie klęsk żywiołowych i katastrof.
+
+## 3. Przeznaczenie formacji
+
+Zgodnie z rozporządzeniami Szefa OC Kraju, formacje mogą być przeznaczone do:
+- ratownictwa technicznego, chemicznego, medycznego,
+- wykrywania i oznaczania skażeń,
+- budowy i obsługi ukryć/schronów,
+- dezaktywacji zagrożeń (CBRN),
+- zabezpieczenia logistycznego (transport, zaopatrzenie, łączność),
+- udzielania pierwszej pomocy psychologicznej i socjalnej.
+
+## 4. Środki działania OC
+
+### a) Sprzęt techniczny i ratowniczy
+- zestawy pierwszej pomocy, nosze, defibrylatory,
+- urządzenia do wykrywania skażeń (czujniki promieniowania, detektory gazów),
+- agregaty prądotwórcze, motopompy, środki ochrony osobistej.
+
+### b) Systemy alarmowania i łączności
+- sieci syren alarmowych, megafony, komunikaty SMS i internetowe,
+- systemy łączności radiowej i satelitarnej.
+
+### c) Schrony i ukrycia
+- obiekty stałe (np. w piwnicach budynków użyteczności publicznej),
+- ukrycia tymczasowe i polowe, wyposażone w środki filtracyjne i zaopatrzenie.
+
+### d) Zasoby logistyczne
+- pojazdy transportowe i ratownicze,
+- magazyny ze sprzętem, odzieżą, żywnością, wodą i lekami,
+- zapasy materiałów pierwszej potrzeby.
+
+## 5. Przygotowanie i szkolenie
+
+Skuteczność działania formacji OC zależy od:
+- regularnych ćwiczeń praktycznych (lokalnych i ogólnokrajowych),
+- szkoleń z zakresu reagowania na konkretne zagrożenia (np. chemiczne, biologiczne),
+- znajomości zasad łączności, pierwszej pomocy, ewakuacji, obsługi sprzętu.
+
+Szkolenia mogą być organizowane przez administrację publiczną, instytucje edukacyjne i organizacje społeczne, a udział w nich jest elementem przygotowania ludności do sytuacji kryzysowej.
