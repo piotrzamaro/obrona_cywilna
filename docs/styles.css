@@ -1,0 +1,39 @@
+.reveal h1, .reveal h2, .reveal h3 {
+  font-family: 'Segoe UI', sans-serif;
+  color: #003366;
+}
+
+
+.reveal p, .reveal li {
+  font-size: 1.05em;
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+}
+.reveal section {
+  padding: 30px;
+  background-color: #fdfdfd;
+}
+
+.reveal .slide-logo {
+  height: 45px !important;
+  right: 20px;
+  bottom: 10px;
+}
+
+.reveal strong {
+  color: #2f4f4f/* delikatna, oliwkowa zieleń */
+  font-weight: 600;
+}
+.reveal em {
+  color: #6a737d; /* szaroniebieski akcent */
+  font-style: italic;
+}
+
+.reveal .footer {
+  font-size: 0.75em;
+  color: #777;
+  text-align: right;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}/* css styles */
